@@ -7,18 +7,12 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/prits1/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
   <h2>👋 Hello World! I'm Pratishtha Gupta.</h2>
 </div>
 
 
 # 💫 About Me:
-🔭 B.Tech IT student | Passionate Front-End Developer  <br>👩‍💻 Building scalable, user-focused web apps  <br>🌱 Learning DSA in Java | Strengthening problem-solving  <br>🤝 Open to SDE roles with a focus on impact and growth  <br>⚡ Always curious, always creating<be>
+🔭 B.Tech IT student | Passionate about exploring Tech  <br>👩‍💻 Building scalable, user-focused web apps  <br>🌱 Learning DSA in Java | Strengthening problem-solving  <br>🤝 Open to SDE roles with a focus on impact and growth  <br>⚡ Always curious, always creating<be>
 
 # 🌐︎ Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratishtha-gupta-8a8b29250) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Pratishtha92065) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gpratishtha505@gmail.com) 
